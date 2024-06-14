@@ -1,0 +1,62 @@
+{
+  "bid": "00000000-0000-0000-0000-000000000000",
+  "data": {
+    "66-0-0": {
+      "gimbal_pitch": 0,
+      "gimbal_roll": 0,
+      "gimbal_yaw": -128.5,
+      "payload_index": "66-0-0",
+      "zoom_factor": 0.56782334384858046
+    },
+    "attitude_head": -128.5,
+    "attitude_pitch": 5.4,
+    "attitude_roll": 0.30000000000000004,
+    "battery": {
+      "batteries": [
+        {
+          "capacity_percent": 59,
+          "firmware_version": "08.75.02.23",
+          "high_voltage_storage_days": 0,
+          "index": 0,
+          "loop_times": 60,
+          "sn": "4ERKKB46G32JG5",
+          "sub_type": 0,
+          "temperature": 42.8,
+          "type": 0,
+          "voltage": 15653
+        }
+      ],
+      "capacity_percent": 59,
+      "landing_power": 0,
+      "remain_flight_time": 0,
+      "return_home_power": 0
+    },
+    "distance_limit_status": { "distance_limit": 5000, "state": 1 },
+    "elevation": 0,
+    "firmware_version": "07.01.2001",
+    "gear": 1,
+    "height": 136.00065612792969,
+    "height_limit": 500,
+    "home_distance": 0,
+    "horizontal_speed": 0,
+    "latitude": 0,
+    "longitude": 0,
+    "mode_code": 0,
+    "position_state": {
+      "gps_number": 4,
+      "is_fixed": 0,
+      "quality": 0,
+      "rtk_number": 3
+    },
+    "storage": { "total": 60638000, "used": 24471000 },
+    "total_flight_distance": 0,
+    "total_flight_time": 0,
+    "track_id": "",
+    "vertical_speed": 0,
+    "wind_direction": 0,
+    "wind_speed": 0
+  },
+  "tid": "00000000-0000-0000-0000-000000000000",
+  "timestamp": 1695632036701,
+  "gateway": "5YSZKBJ0020YX9"
+}
